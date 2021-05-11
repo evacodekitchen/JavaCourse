@@ -1,6 +1,5 @@
 package edu.evacodekitchen.javaexercises.houseplans;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class HousePlanSearch {
